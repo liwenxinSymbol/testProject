@@ -1,7 +1,8 @@
 package com.test.liwenxin;
 /**
- * ²âÊÔÀà
- * @author Administrator
+ * Â²Ã¢ÃŠÃ”Ã€Ã 
+ * @author liwenxin
+ * @date 2018-05-02
  *
  */
 public class Test {
