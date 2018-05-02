@@ -1,12 +1,13 @@
 package com.test.liwenxin;
 /**
- * ²âÊÔÊı×é
- * @author Administrator
+ * Â²Ã¢ÃŠÃ”ÃŠÃ½Ã—Ã©
+ * @author liwenxin
+ * @date 2018-05-02
  *
  */
 public class Test2 {
 	/**
-	 * ³ÌĞòÆô¶¯
+	 * Â³ÃŒÃÃ²Ã†Ã´Â¶Â¯
 	 * @param args
 	 */
 	public static void main(String[] args) {
