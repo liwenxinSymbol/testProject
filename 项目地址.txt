@@ -1,4 +1,0 @@
-create by liwenxin
-svn项目地址：https://192.168.50.237/svn/HongChengMall
-
-svn账户：liwenxin/liwenxin(用户名/密码)
